@@ -9,7 +9,6 @@ Sweet-Tooth was built with,
 
 ## Author
 Me - Duc Tran - Planning, designing, and launching the application.
------------ Have Fun ----------- 
 
 
 
