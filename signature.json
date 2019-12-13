@@ -1,0 +1,45 @@
+{
+        "title" : "Favorite of All Time",
+        "image" : [
+            {
+                "path" : "https://images.unsplash.com/photo-1563822249366-3efb23b8e0c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80"
+            },
+            {
+                "path" : "https://images.unsplash.com/photo-1554675427-1d637bdb5a12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=746&q=80"
+            }
+        ],
+        "drinks" : [
+            {
+                "name" : "Sunset Flower",
+                "description" : "Green milk tea that made with our in house homebrew tea. Organic milk from Pitton-Milk with the topping of our own rainbow jelly."
+            },
+            {
+                "name" : "Rainy Rosse",
+                "description" : "Rose tea blended with pineaple citrus, mountain mongo. A refreshing iced tea topped with sliced coconut and pineaple."
+            },
+            {
+                "name" : "Hawailian Peach",
+                "description" : "Peach Strawberry munble tea topped with our special lychee jelly. A tropical tea for your sweet tooth."
+            },
+            {
+                "name" : "India Chai Lover",
+                "description" : "A special drink blended in India!!! A bitter, mellow citrus sweet hinted of chai tea toppped with shedded orange and rainbow jelly."
+            },
+            {
+                "name" : "White Coconut",
+                "description" : "Coconut citrus tea. A tropical mixed with jelly and real coconut. Recommended by less sweet or maximum sweet to satisfy your sweet tooth."
+            },
+            {
+                "name" : "Passion Sweet Tooth",
+                "description" : "One of the most colorful drink blended with strawberry, orange, passion fruit topped with high quality fuits of your choice. Recommended less sweet."
+            },
+            {
+                "name" : "Lavender Lover",
+                "description" : "The tittle said it all... A refreshing tea with lavender note topped with lavender flower."
+            },
+            {
+                "name" : "Vietnamee Decaf",
+                "description" : "A very strong coffee that satisfy your caffeine kick."
+            }
+        ]
+}

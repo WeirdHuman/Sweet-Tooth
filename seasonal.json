@@ -1,0 +1,45 @@
+{
+    "title" : "Seasonal - Winter of 2020",
+    "image" : [
+        {
+            "path" : "https://images.unsplash.com/photo-1529258283598-8d6fe60b27f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+            "path" : "https://images.unsplash.com/photo-1561375559-0eb5f0827f70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+        }
+    ],
+    "drinks" : [
+        {
+            "name" : "Exotic Milk",
+            "description" : "Chocolate milk tea mixed with a hint of cacao. Organic milk from Pitton-Milk with the topping of our own grass jelly."
+        },
+        {
+            "name" : "Chocolate Lover",
+            "description" : "Green milk tea mixed with real cacao blended together with organic milk from Pitton-Milk. A truly chocolate milk for chocolate lover."
+        },
+        {
+            "name" : "Milky Milky",
+            "description" : "Caramel milk tea blended with our in house speacial organic milk. A drink toppped with honeyboba and egg pudding. "
+        },
+        {
+            "name" : "Matcha Lover",
+            "description" : "Green milk tea spinned with a hint peppermint milk. A refreshing milk tea topped with egg pudding and honeyboba."
+        },
+        {
+            "name" : "Purple Taro",
+            "description" : "Taro milk drink blended with real taro. Organic milk drink from Pitton-Milk and toppped with shedded taro."
+        },
+        {
+            "name" : "Sea Salt Sweet Tooth",
+            "description" : "Sea Salt creamy foam that spike up your day. Toppped with a little salt and babies chocolate."
+        },
+        {
+            "name" : "Mars Comer",
+            "description" : "The tittle said it all... Super caramel milk drink topped with rainbow boba and rainbow jelly."
+        },
+        {
+            "name" : "Alien",
+            "description" : "Feeling down?? Alien will make your day. Our day to day special."
+        }
+    ]
+}
