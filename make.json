@@ -1,0 +1,27 @@
+{
+    "title" : "Unleash Your Creativity",
+    "image" : [
+        {
+            "path" : "https://images.unsplash.com/photo-1505394033641-40c6ad1178d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1012&q=80"
+        }
+    ],
+    "Making" : [
+        {
+            "Step" : "Milk Process",
+            "description" : "Choose the type of milk. Chocolate milk, organic Pitton-Milk, almond milk, our in house speacial milk."
+        },
+        {
+            "Step" : "Blended or Not",
+            "description" : "Over iced, blended, or foam milk. Recomemded tea for over iced, blended for fruity drinks, and foam milk for any milk tea drinks."
+        },
+        {
+            "Step" : "Topping Topping",
+            "description" : "Your favorite toppings. Honeyboba, shredded coconut, babies chocolate, rainbow jelly."
+        },
+        {
+            "Step" : "Sweetness Level",
+            "description" : "Half sweet, less sweet, or maximum sweetest for cravity."
+        }
+        
+    ]
+}
