@@ -190,18 +190,56 @@
 
 /*          MENU page styling 
 ------------------------------------ */
-
-.menuImage{
-    width: 80%;
-    margin: 0 auto;
-    margin-top: 5em;
-}
-.menuImage img{
+.TopImage img{
     max-width: 100%;
     width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    margin-top: 2em;
 }
-
-
+.TopText{
+    text-align: center;
+    letter-spacing: 0.2em;
+    line-height: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50%;
+    margin: 3em auto; 
+}
+.TopText span{
+    font-weight: bold;
+}
+hr{
+    width: 20%;
+    margin: 0 auto;
+    background-color: rgb(109, 96, 96);
+    height: 0.2em;
+}
+.MenuHeader{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: 3.5em;
+}
+.MenuHeader h3{
+    display: flex;
+    padding: 4em;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    letter-spacing: 0.3em;
+    cursor: pointer;
+}
+.MenuHeader h3:hover{
+    color: silver;
+}
+.signatureText{
+    text-align: center;
+    line-height: 2.5em;
+}
+#ImageOutPut img{
+    margin-top: 2em;
+    max-width: 100%;
+}
 /* FIND US page Styling     
 --------------------------------- */
 .findUs p{
@@ -293,7 +331,7 @@
     width: 50%;
     margin: 0 auto; 
     line-height: 2em;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .aboutDescription h1{
     padding-bottom: 1em;
@@ -302,7 +340,7 @@
     padding-top: 1em;
 }
 
-/* Mobile design for Find US Page
+/* Mobile design for Find US Page and Menu Page
 Note for min-width and max-width in media......
 min-width is for upper and max-width is for lower than that reselution.....
 ------------------------------------------------------------------- */
@@ -316,7 +354,9 @@ min-width is for upper and max-width is for lower than that reselution.....
     .direction{
         padding-bottom: 2em;
     }
-    
+    .MenuHeader h3{
+        padding: 2em;
+    }
 }
 @media screen and (max-width: 620px){
     .findGrid{
